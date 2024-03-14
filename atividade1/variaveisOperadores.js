@@ -4,4 +4,5 @@ let k;
 
 k = i + j;
 
-console.log(k);
+let d = `Resultado da soma entre ${i} e ${j} e igual a ${k}`;
+console.log(d);
